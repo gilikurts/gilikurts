@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="Gili Kurtser-Gilead — Radar, Remote Sensing, Machine Learning" width="100%">
+</p>
 
-<!--
-**gilikurts/gilikurts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Gili 🌸
 
-Here are some ideas to get you started:
+I'm a PhD student in Earth & Atmospheric Sciences at Cornell University, working on radar remote sensing and automated ice-layer tracing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background spans physics, oceanography, and data science, with experience applying machine learning to environmental and biomedical data.
+
+## Research interests
+
+Radar and satellite remote sensing · Signal and image processing · Computer vision · Environmental and biomedical machine learning
+
+## Projects
+
+[SAR assignment](https://github.com/gilikurts/SAR-assignment) — Coursework in synthetic aperture radar.
+
+[Image processing course](https://github.com/gilikurts/image_processing_course) — Image processing coursework and code.
+
+## Beyond research
+
+I create science content in Hebrew about satellites, measurement technologies, and how we observe our planet.
+
+[Instagram · @gilik.climate.science](https://www.instagram.com/gilik.climate.science/)
