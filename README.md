@@ -12,12 +12,6 @@ My background spans physics, oceanography, and data science, with experience app
 
 Radar and satellite remote sensing · Signal and image processing · Computer vision · Environmental and biomedical machine learning
 
-## Projects
-
-[SAR assignment](https://github.com/gilikurts/SAR-assignment) — Coursework in synthetic aperture radar.
-
-[Image processing course](https://github.com/gilikurts/image_processing_course) — Image processing coursework and code.
-
 ## Beyond research
 
 I create science content in Hebrew about satellites, measurement technologies, and how we observe our planet.
