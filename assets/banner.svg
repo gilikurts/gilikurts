@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+<title id="title">Gili Kurtser-Gilead</title>
+<desc id="desc">Radar, remote sensing and machine learning on a soft pink background.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff0f5"/><stop offset="1" stop-color="#eedff3"/></linearGradient></defs>
+<rect width="1200" height="240" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="#c8789b" stroke-width="2" opacity=".35">
+<circle cx="1060" cy="115" r="48"/><circle cx="1060" cy="115" r="78"/><circle cx="1060" cy="115" r="108"/>
+<path d="M1060 115l78-63M910 199q65-35 130-6t160-9"/>
+</g>
+<circle cx="1060" cy="115" r="5" fill="#a34e78"/>
+<text x="60" y="104" fill="#72334f" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="600">Gili Kurtser-Gilead</text>
+<text x="62" y="151" fill="#85546f" font-family="Arial, Helvetica, sans-serif" font-size="22">Radar · Remote Sensing · Machine Learning</text>
+<text x="62" y="191" fill="#956d83" font-family="Arial, Helvetica, sans-serif" font-size="17">PhD student at Cornell University</text>
+</svg>
