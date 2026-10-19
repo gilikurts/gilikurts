@@ -1,13 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
 <title id="title">Gili Kurtser-Gilead</title>
-<desc id="desc">Radar, remote sensing and machine learning on a soft pink background.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff0f5"/><stop offset="1" stop-color="#eedff3"/></linearGradient></defs>
+<desc id="desc">Pink and lavender banner with an illustrated Earth and an orbiting satellite on the right.</desc>
+<defs>
+<linearGradient id="bg" x2="100%" y2="100%"><stop stop-color="#fff0f5"/><stop offset="1" stop-color="#eedff3"/></linearGradient>
+<radialGradient id="ocean" cx="32%" cy="25%" r="80%"><stop stop-color="#ecd8f3"/><stop offset=".65" stop-color="#c8a1d2"/><stop offset="1" stop-color="#9a73b0"/></radialGradient>
+<clipPath id="globe"><circle cx="1042" cy="146" r="82"/></clipPath>
+</defs>
 <rect width="1200" height="240" rx="20" fill="url(#bg)"/>
-<g fill="none" stroke="#c8789b" stroke-width="2" opacity=".35">
-<circle cx="1060" cy="115" r="48"/><circle cx="1060" cy="115" r="78"/><circle cx="1060" cy="115" r="108"/>
-<path d="M1060 115l78-63M910 199q65-35 130-6t160-9"/>
+<g fill="#bd86aa" opacity=".6">
+<circle cx="862" cy="48" r="2"/><circle cx="1152" cy="57" r="2"/><circle cx="923" cy="192" r="2"/><circle cx="1161" cy="194" r="2"/>
+<path d="M1118 28v10m-5-5h10M887 131v8m-4-4h8" stroke="#bd86aa" stroke-width="1.5"/>
 </g>
-<circle cx="1060" cy="115" r="5" fill="#a34e78"/>
+<ellipse cx="1042" cy="146" rx="119" ry="42" transform="rotate(-28 1042 146)" fill="none" stroke="#cb91af" stroke-width="1.5" stroke-dasharray="5 6" opacity=".55"/>
+<circle cx="1042" cy="146" r="88" fill="#fff4fa" opacity=".6"/>
+<circle cx="1042" cy="146" r="82" fill="url(#ocean)"/>
+<g clip-path="url(#globe)" fill="#f4bed1" stroke="#e5a8c1" stroke-width="1">
+<path d="M974 86l21-10 20 3 9 12-12 12-2 13-13 3-7 17-12-7-10-20z"/>
+<path d="M995 135l17 3 13 17-3 19-10 12-7 23-9-10 1-22-10-17z"/>
+<path d="M1044 77l20-4 27 12 21 18 9 19-18 2-11-12-13 5-13-10-9 4-15-11z"/>
+<path d="M1051 113l20 4 13 20-5 23-15 21-10-10-4-21-9-18z"/>
+<path d="M1085 181l18-8 16 9 1 13-23 4-14-8z"/>
+<path d="M1010 218q33-12 69 0l14 14h-96z" fill="#fff0f6"/>
+</g>
+<g fill="none" stroke="#fff7fc" opacity=".25">
+<ellipse cx="1042" cy="146" rx="35" ry="82"/><path d="M964 124q78 27 156 0M964 169q78 27 156 0"/>
+</g>
+<g transform="translate(934 65) rotate(-24)">
+<path d="M-22 0h44" stroke="#986185" stroke-width="4"/>
+<g fill="#b888bd" stroke="#906196" stroke-width="1.5">
+<rect x="-63" y="-17" width="39" height="34" rx="3"/><rect x="24" y="-17" width="39" height="34" rx="3"/>
+</g>
+<path d="M-50-17v34m13-34v34m74-34v34m13-34v34M-63 0h39m48 0h39" fill="none" stroke="#e9cbe7" stroke-width="1"/>
+<rect x="-15" y="-20" width="30" height="40" rx="5" fill="#f6c5d9" stroke="#a96b91" stroke-width="2"/>
+<path d="M-8 20q8 15 16 0" fill="#fff0f7" stroke="#a96b91" stroke-width="1.5"/>
+<path d="M0 28v9m-4 3 4-3 4 3" fill="none" stroke="#a96b91" stroke-width="1.5"/>
+</g>
 <text x="60" y="104" fill="#72334f" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="600">Gili Kurtser-Gilead</text>
 <text x="62" y="151" fill="#85546f" font-family="Arial, Helvetica, sans-serif" font-size="22">Radar · Remote Sensing · Machine Learning</text>
 <text x="62" y="191" fill="#956d83" font-family="Arial, Helvetica, sans-serif" font-size="17">PhD student at Cornell University</text>
