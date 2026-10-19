@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Gili Kurtser-Gilead — Radar, Remote Sensing, Machine Learning" width="100%">
+  <img src="assets/banner-earth-satellite.svg" alt="Gili Kurtser-Gilead — Radar, Remote Sensing, Machine Learning" width="100%">
 </p>
 
 ## Hi, I'm Gili 🌸
