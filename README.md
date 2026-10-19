@@ -12,7 +12,23 @@ My background spans physics, oceanography, and data science, with experience app
 
 Radar and satellite remote sensing · Signal and image processing · Computer vision · Environmental and biomedical machine learning
 
-## Beyond research
+## Selected Publications
+
+Atia, O., Kurtser, G., Focht, G., et al. (2026). [Automated readings of imaging reports by natural language processing (NLP) supplemented by clinical data predict disease course in children and adults with Crohn's disease: Report from the epi-IIRN](https://doi.org/10.1080/00365521.2026.2709610). Scandinavian Journal of Gastroenterology. Accepted / in press.
+
+Haspel, C., Kurtser, G., & Yair, Y. (2022). [The feasibility of a 3D time-dependent model for predicting the area of possible sprite inception in the mesosphere based on an analytical solution to Poisson's equation](https://doi.org/10.1016/j.jastp.2022.105853). Journal of Atmospheric and Solar-Terrestrial Physics, 230, 105853.
+
+## Selected Talks
+
+IEEE IGARSS · Brisbane, 2025 — Oral presentation on the feasibility of passive satellite remote sensing of ocean microplastics using high-resolution multiple-scattering simulations.
+
+Optica Sensing Congress · Long Beach, 2025 — Invited panel presentation on passive satellite remote sensing of ocean microplastics.
+
+ECCO Congress · Stockholm, 2026 — Digital oral presentation: Usage of Radiomics and Graph Neural Networks for Predicting Surgical Outcomes in Crohn's Disease.
+
+## Science Communication & Media
+
+[Ynet / Zavit · Research feature, 2025](https://www.ynet.co.il/environment-science/article/r1yk9r45je) — Coverage of my research on passive satellite detection of ocean microplastics (in Hebrew).
 
 I create science content in Hebrew about satellites, measurement technologies, and how we observe our planet.
 
