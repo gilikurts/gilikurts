@@ -14,6 +14,8 @@ Radar and satellite remote sensing · Signal and image processing · Computer vi
 
 ## Selected Publications
 
+[Google Scholar](https://scholar.google.com/citations?user=qixhWyUAAAAJ&hl=en)
+
 Atia, O., Kurtser, G., Focht, G., et al. (2026). [Automated readings of imaging reports by natural language processing (NLP) supplemented by clinical data predict disease course in children and adults with Crohn's disease: Report from the epi-IIRN](https://doi.org/10.1080/00365521.2026.2709610). Scandinavian Journal of Gastroenterology. Accepted / in press.
 
 Haspel, C., Kurtser, G., & Yair, Y. (2022). [The feasibility of a 3D time-dependent model for predicting the area of possible sprite inception in the mesosphere based on an analytical solution to Poisson's equation](https://doi.org/10.1016/j.jastp.2022.105853). Journal of Atmospheric and Solar-Terrestrial Physics, 230, 105853.
