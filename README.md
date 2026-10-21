@@ -4,7 +4,7 @@
 
 ## Hi, I'm Gili 🌸
 
-I'm a PhD student in Earth & Atmospheric Sciences at Cornell University, working on radar remote sensing and automated ice-layer tracing.
+I'm a PhD student in Earth & Atmospheric Sciences at Cornell University, working on radar remote sensing and  ice-layer tracing.
 
 My background spans physics, oceanography, and data science, with experience applying machine learning to environmental and biomedical data.
 
